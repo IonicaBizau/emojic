@@ -1,7 +1,7 @@
 {
-  "name": "clicons",
+  "name": "emojic",
   "version": "1.0.0",
-  "description": "Icons for your command line.",
+  "description": "Emoji in your Node.js command line apps.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/clicons.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/emojic.git"
   },
   "keywords": [
     "icons",
@@ -22,9 +22,9 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/clicons/issues"
+    "url": "https://github.com/IonicaBizau/emojic/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/clicons#readme",
+  "homepage": "https://github.com/IonicaBizau/emojic#readme",
   "dependencies": {
     "camelo": "^1.0.0",
     "emojilib": "^1.1.0",
@@ -34,5 +34,15 @@
   },
   "devDependencies": {
     "color-it": "^1.1.0"
+  },
+  "blah": {
+      "description": "In the screenshot below I'm using a Linux terminal emulator which doesn't support *colorful* emoji (in the way like OS X does).",
+      "h_img": "http://i.imgur.com/bflsgPt.png",
+      "ex_img": "http://i.imgur.com/o0DJDca.png",
+      "thanks": "Thanks to [**@muan**](https://github.com/muan) for creating the [`emojilib`](https://github.com/muan/emojilib) project we use here. :sparkles:",
+      "documentation": [
+          "Require the library using `var emojic = require(\"emojic\")`. Then you can use the camel case notation for the emoji names (like in the example). Visit [emoji.muan.co](http://emoji.muan.co) to search the icons.",
+          "For example, if you want to display in console `:heart_eyes:` (:heart_eyes:), you will use `console.log(emojic.heartEyes)` (notice the camelCaseStyle)"
+      ]
   }
 }

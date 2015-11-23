@@ -1,0 +1,38 @@
+{
+  "name": "clicons",
+  "version": "1.0.0",
+  "description": "Icons for your command line.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/clicons.git"
+  },
+  "keywords": [
+    "icons",
+    "command",
+    "line",
+    "cli"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/clicons/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/clicons#readme",
+  "dependencies": {
+    "camelo": "^1.0.0",
+    "emojilib": "^1.1.0",
+    "iterate-object": "^1.2.0",
+    "map-o": "^1.2.0",
+    "r-json": "^1.1.0"
+  },
+  "devDependencies": {
+    "color-it": "^1.1.0"
+  }
+}

@@ -11,7 +11,7 @@ In the screenshot below I'm using a Linux terminal emulator which doesn't suppor
 ## Installation
 
 ```sh
-$ npm i emojic
+$ npm i --save emojic
 ```
 
 ## Example
@@ -51,13 +51,16 @@ Thanks to [**@muan**](https://github.com/muan) for creating the [`emojilib`](htt
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+ - [`tester`](https://github.com/IonicaBizau/tester#readme)
+
 ## License
 
-MIT © [Ionică Bizău][website]
+[MIT][license] © [Ionică Bizău][website]
 
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2015#license-mit
 [website]: http://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md

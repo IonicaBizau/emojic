@@ -1,8 +1,8 @@
 [![emojic](http://i.imgur.com/bflsgPt.png)](#)
 
-# emojic [![Support this project][donate-now]][paypal-donations]
+# emojic [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emojic.svg)](https://www.npmjs.com/package/emojic) [![Downloads](https://img.shields.io/npm/dt/emojic.svg)](https://www.npmjs.com/package/emojic) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Emoji in your Node.js command line apps.
+> Emoji in your Node.js command line apps.
 
 In the screenshot below I'm using a Linux terminal emulator which doesn't support *colorful* emoji (in the way like OS X does).
 
@@ -51,7 +51,7 @@ Thanks to [**@muan**](https://github.com/muan) for creating the [`emojilib`](htt
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`tester`](https://github.com/IonicaBizau/tester#readme)
+ - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)
 
 ## License
 

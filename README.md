@@ -1,3 +1,4 @@
+
 [![emojic](http://i.imgur.com/bflsgPt.png)](#)
 
 # emojic [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emojic.svg)](https://www.npmjs.com/package/emojic) [![Downloads](https://img.shields.io/npm/dt/emojic.svg)](https://www.npmjs.com/package/emojic) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
@@ -8,13 +9,16 @@ In the screenshot below I'm using a Linux terminal emulator which doesn't suppor
 
 [![emojic](http://i.imgur.com/o0DJDca.png)](#)
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save emojic
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -37,23 +41,24 @@ console.log(" " + colorIt(emojic.smiley).green() + " " + colorIt("I am a happy m
 // => 😃 I am a happy man
 ```
 
-## Documentation
+## :memo: Documentation
 
 Require the library using `var emojic = require("emojic")`. Then you can use the camel case notation for the emoji names (like in the example). Visit [emoji.muan.co](http://emoji.muan.co) to search the icons.
 For example, if you want to display in console `:heart_eyes:` (:heart_eyes:), you will use `console.log(emojic.heartEyes)` (notice the camelCaseStyle)
 
-## How to contribute
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Thanks
+## :cake: Thanks
 Thanks to [**@muan**](https://github.com/muan) for creating the [`emojilib`](https://github.com/muan/emojilib) project we use here. :sparkles:
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)
 
-## License
+ - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)—Logging library based on flat colors and Emoji.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 

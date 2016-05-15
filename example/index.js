@@ -13,7 +13,7 @@ console.log(emojic.whiteCheckMark + " Success");
 // ...using color-it (you can find it on github.com/IonicaBizau/node-color-it)
 console.log(" " + colorIt(emojic.x).red() + " " + colorIt("Some red error appeared").redBg());
 console.log(" " + colorIt(emojic.smiley).green() + " " + colorIt("I am a happy man!").greenBg().wetAsphalt());
-// Note: ANSI styles will be used to color the output (see the screenshot)
+// Note: On Linux, ANSI styles will be used to color the output (see the screenshot)
 // => ❌ Some red error appeared
 // => 😃 I am a happy man
 

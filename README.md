@@ -1,7 +1,9 @@
 
 [![emojic](http://i.imgur.com/bflsgPt.png)](#)
 
-# emojic [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emojic.svg)](https://www.npmjs.com/package/emojic) [![Downloads](https://img.shields.io/npm/dt/emojic.svg)](https://www.npmjs.com/package/emojic) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# emojic
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/emojic.svg)](https://www.npmjs.com/package/emojic) [![Downloads](https://img.shields.io/npm/dt/emojic.svg)](https://www.npmjs.com/package/emojic) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Emoji in your Node.js command line apps.
 

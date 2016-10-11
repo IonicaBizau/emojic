@@ -1,6 +1,6 @@
 {
   "name": "emojic",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Emoji in your Node.js command line apps.",
   "main": "lib/index.js",
   "directories": {
@@ -48,6 +48,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",

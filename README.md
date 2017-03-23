@@ -46,6 +46,15 @@ console.log(" " + colorIt(emojic.thumbsUp).green() + " " + colorIt("Thumbs up!")
 console.log(" " + colorIt(emojic.thumbsDown).green() + " " + colorIt("Thumbs down!").yellow());
 ```
 
+## :question: Get Help
+
+There are few ways to get help:
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help from me, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 ## :memo: Documentation
 
 Require the library using `var emojic = require("emojic")`. Then you can use the camel case notation for the emoji names (like in the example). Visit [emoji.muan.co](http://emoji.muan.co) to search the icons.

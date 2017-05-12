@@ -46,13 +46,15 @@ console.log(" " + colorIt(emojic.thumbsUp).green() + " " + colorIt("Thumbs up!")
 console.log(" " + colorIt(emojic.thumbsDown).green() + " " + colorIt("Thumbs down!").yellow());
 ```
 
+
+
 ## :question: Get Help
 
 There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help from me, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+ 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
 
 
 ## :memo: Documentation
@@ -89,7 +91,9 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)—Logging library based on flat colors and Emoji.
+ - [`node-charcoal`](https://npmjs.com/package/node-charcoal) (by James Quinlan)—Shared JS/SCSS variables
  - [`ntbk`](https://michaelsoolee.com/ntbk-journal/) (by Michael Lee)—A simple command-line journaling tool.
+ - [`scrapy-chan`](https://github.com/bitliner/scraps#readme)—Scraping made easy.
 
 ## :scroll: License
 

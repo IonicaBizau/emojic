@@ -56,7 +56,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -93,10 +95,12 @@ Thanks to [**@muan**](https://github.com/muan) for creating the [`emojilib`](htt
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
- - [`contentful-cli`](https://npmjs.com/package/contentful-cli) (by Contentful)—Contentful CLI tool
+ - [`contentful-cli`](https://github.com/contentful/contentful-cli#readme) (by Contentful)—Contentful CLI tool
  - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)—Logging library based on flat colors and Emoji.
+ - [`inquirer-level-select`](https://npmjs.com/package/inquirer-level-select) (by gzlinguangyu)—a level data selector for Inquirer.js
  - [`node-charcoal`](https://npmjs.com/package/node-charcoal) (by James Quinlan)—Shared JS/SCSS variables
  - [`ntbk`](https://michaelsoolee.com/ntbk-journal/) (by Michael Lee)—A simple command-line journaling tool.
+ - [`omneedia`](https://github.com/omneedia/omneedia-cli#readme) (by Stephane Zucatti)—Omneedia CLI Framework
  - [`scrapy-chan`](https://github.com/bitliner/scraps#readme)—Scraping made easy.
 
 ## :scroll: License

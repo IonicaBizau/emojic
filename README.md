@@ -16,7 +16,11 @@ In the screenshot below I'm using a Linux terminal emulator which doesn't suppor
 ## :cloud: Installation
 
 ```sh
-$ npm i --save emojic
+# Using npm
+npm install --save emojic
+
+# Using yarn
+yarn add emojic
 ```
 
 

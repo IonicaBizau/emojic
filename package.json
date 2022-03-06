@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/emojic#readme",
   "dependencies": {
-    "camelo": "^1.0.0",
+    "camelo": "^1.2.1",
     "emojilib": "^2.0.2",
     "iterate-object": "^1.2.0",
     "r-json": "^1.1.0"

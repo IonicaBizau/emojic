@@ -1,6 +1,6 @@
 {
   "name": "emojic",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "description": "Emoji in your Node.js command line apps.",
   "main": "lib/index.js",
   "directories": {
@@ -55,6 +55,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"

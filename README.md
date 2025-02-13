@@ -21,7 +21,7 @@
 
 # emojic
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/emojic.svg)](https://www.npmjs.com/package/emojic) [![Downloads](https://img.shields.io/npm/dt/emojic.svg)](https://www.npmjs.com/package/emojic) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/emojic.svg)](https://www.npmjs.com/package/emojic) [![Downloads](https://img.shields.io/npm/dt/emojic.svg)](https://www.npmjs.com/package/emojic) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -113,6 +113,7 @@ console.log(" " + colorIt(emojic.thumbsDown).green() + " " + colorIt("Thumbs dow
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -122,6 +123,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -186,49 +189,54 @@ Thanks to [**@muan**](https://github.com/muan) for creating the [`emojilib`](htt
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `contentful-cli`
- - `emoji-logger`
- - `@vtex/toolbelt-message-renderer`
- - `@lightjs/cli`
- - `xrpcli`
- - `gsv`
- - `mp3-stamp`
- - `dhxer.sl-cli`
- - `scrapy-chan`
- - `cryptotracker`
- - `clipix`
- - `light-testing-serverless-temp`
- - `react-library-generator`
- - `badou`
- - `mon-service`
- - `node-charcoal`
- - `xrpmon`
- - `dynogen`
- - `light-test-netlify`
- - `@epsidev/dionisio-cli`
- - `dumb-client`
- - `hubbub_community`
+ - `@adeeba123/adventure-game`
+ - `@bou-company/json2ts`
  - `@codhek/cf-cli`
- - `tailwind-storybook`
+ - `@epsidev/dionisio-cli`
  - `@kushki/kushki-cli`
- - `commandline-tool-shlomi-01`
- - `advent-of-code-client`
- - `viewar-cli`
- - `react-native-gem`
- - `lazybee-cli`
- - `@andresmorelos/sam`
- - `voila-cmd`
- - `dhxer-cli`
- - `omneedia`
- - `ntbk`
- - `harvest-cli`
- - `community-hubbub`
- - `dkaframework`
- - `push-to-start`
- - `@wymaze/cm_common_library`
- - `inquirer-level-select`
- - `create-one-app`
+ - `@lightjs/cli`
+ - `@sabroso/cli`
  - `@viewar/cli`
+ - `@vtex/toolbelt-message-renderer`
+ - `@websser-tech/cli`
+ - `@wymaze/cm_common_library`
+ - `advent-of-code-client`
+ - `badou`
+ - `clipix`
+ - `colourpalettegenerator`
+ - `commandline-tool-shlomi-01`
+ - `community-hubbub`
+ - `contentful-cli`
+ - `create-one-app`
+ - `cryptotracker`
+ - `dhxer-cli`
+ - `dhxer.sl-cli`
+ - `dkaframework`
+ - `dumb-client`
+ - `dynamic-model-generator`
+ - `dynogen`
+ - `emoji-logger`
+ - `gsv`
+ - `harvest-cli`
+ - `hubbub_community`
+ - `inquirer-level-select`
+ - `lazybee-cli`
+ - `light-test-netlify`
+ - `light-testing-serverless-temp`
+ - `mon-service`
+ - `mp3-stamp`
+ - `node-charcoal`
+ - `node-modules-browser`
+ - `ntbk`
+ - `omneedia`
+ - `push-to-start`
+ - `react-library-generator`
+ - `scrapy-chan`
+ - `utransfer-cli-demo`
+ - `viewar-cli`
+ - `voila-cmd`
+ - `xrpcli`
+ - `xrpmon`
 
 
 
